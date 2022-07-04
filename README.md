@@ -5,9 +5,3 @@
 - 📫 How to reach me ...
 
 <!---
-Nik10IKIRA/Nik10IKIRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-wget -q -O anoma.sh https://api.nodes.guru/anoma.sh && chmod +x anoma.sh && sudo /bin/bash anoma.sh
-source $HOME/.bash_profile
-journalctl -u anomad -f
